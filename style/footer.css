@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+body{font-family: 'Noto Sans TC', sans-serif;}
+
+.footerbackground{
+	
+	background-color: #f2f2f2;
+    padding: 41px 20px;
+}

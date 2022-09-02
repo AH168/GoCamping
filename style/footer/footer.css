@@ -1,0 +1,177 @@
+.footer-area .single-footer-widget input:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  /* line 73, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .single-footer-widget .click-btn {
+    background-color: #fc4700;
+    color: #fff;
+    border-radius: 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 8px 20px;
+    border: 0;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Lora", serif;
+    position: relative;
+    left: 0;
+  }
+  
+  /* line 86, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .single-footer-widget .click-btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  @media (max-width: 375px) {
+    /* line 73, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .single-footer-widget .click-btn {
+      margin-top: 10px;
+    }
+  }
+  
+  @media (min-width: 400px) {
+    /* line 73, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .single-footer-widget .click-btn {
+      left: -50px;
+    }
+  }
+  
+  /* line 100, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .contact_info {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  /* line 103, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .contact_info:last-child {
+    margin-bottom: 0px;
+  }
+  
+  /* line 106, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .contact_info p {
+    margin-bottom: 10px;
+  }
+  
+  /* line 108, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .contact_info p span {
+    color: #2c3033;
+    font-size: 16px;
+  }
+  
+  /* line 114, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .form-control {
+    border-radius: 0px !important;
+    font-size: 13px;
+    color: #999999;
+    font-weight: 400;
+    height: 48px;
+    margin-top: 23px;
+  }
+  
+  /* line 121, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .form-control:focus {
+    outline: none !important;
+    border-color: #e9ecee;
+  }
+  
+  /* line 126, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .btn {
+    margin-top: 23px;
+    background-color: #fc4700;
+    color: #fff;
+    width: 49px;
+    border-radius: 0px;
+    height: 40px;
+  }
+  
+  /* line 134, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .form-group {
+    margin-top: 18px;
+  }
+  
+  /* line 137, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area span.ti-heart {
+    font-size: 12px;
+    margin: 0px 2px;
+  }
+  
+  /* line 141, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .copyright_part_text {
+    border-top: 1px solid #e2e2e2;
+    padding-top: 25px;
+    margin-top: 83px;
+  }
+  
+  /* line 145, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .copyright_part_text p {
+    color: #777777;
+  }
+  
+  @media (max-width: 576px) {
+    /* line 141, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_part_text {
+      margin-top: 20px;
+      text-align: center;
+    }
+    /* line 152, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_part_text p {
+      font-size: 13px;
+    }
+  }
+  
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* line 141, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_part_text {
+      text-align: center;
+      margin-top: 20px;
+    }
+    /* line 159, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_part_text p {
+      font-size: 13px;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* line 141, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_part_text {
+      text-align: center;
+    }
+  }
+  
+  /* line 169, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .copyright_part_text a {
+    color: #fc4700;
+  }
+  
+  @media (max-width: 576px) {
+    /* line 173, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_social_icon {
+      text-align: center !important;
+      margin-top: 15px;
+    }
+  }
+  
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* line 173, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_social_icon {
+      text-align: center !important;
+      margin-top: 15px;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* line 173, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+    .footer-area .copyright_social_icon {
+      text-align: center !important;
+      margin-top: 15px;
+    }
+  }
+  
+  /* line 189, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_footer.scss */
+  .footer-area .copyright_social_icon a {
+    margin-left: 20px;
+    color: #969697;
+  }
